@@ -1,0 +1,23 @@
+.personalDetails {
+    margin-top: 20px;
+
+    .headers {
+        margin-top: 20px;
+        margin-left: -40px;
+
+        ul {
+            li {
+                letter-spacing: 1px;
+                list-style: none;
+                line-height: 30px;
+                span{
+                    margin-left: 40px
+                }
+                .address2,.city {
+                    margin-left: 120px;
+                    
+                }
+            }
+        }
+    }
+}

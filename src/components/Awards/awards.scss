@@ -1,0 +1,48 @@
+.awards{
+    .item{
+        margin-left: -40px;
+        margin-right: 10px;
+        ul{
+            margin-top: 20px;
+            span{
+                color: gray;
+            }
+            :nth-child(1){
+                list-style: none;
+                font-size: 18px;
+            }
+            li{
+                margin-top: 20px;
+                line-height: 25px;
+                letter-spacing: 1px;
+               
+            }
+        }
+    }
+}
+
+.certification{
+    margin-top: 20px;
+    .item{
+        margin-top: 20px;
+        margin-left: -40px;
+        margin-right: 10px;
+
+        ul{
+            margin-top: 20px;
+            span{
+                color: gray;
+            }
+            :nth-child(1){
+                list-style: none;
+                font-size: 18px;
+            }
+            li{
+                margin-top: 20px;
+                line-height: 25px;
+                letter-spacing: 1px;
+               
+            }
+        }
+    }
+}
